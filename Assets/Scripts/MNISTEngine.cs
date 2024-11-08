@@ -1,9 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using Unity.Sentis;
-using Unity.Collections;
-using System;
 
 public class MNISTEngine : MonoBehaviour
 {

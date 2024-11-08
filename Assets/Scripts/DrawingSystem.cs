@@ -1,7 +1,4 @@
 using UnityEngine;
-using UnityEngine.Rendering;
-using UnityEngine.Rendering.Universal.Internal;
-using UnityEngine.UI;
 
 [RequireComponent(typeof(MeshCollider))]
 public class DrawingSystem : MonoBehaviour
